@@ -1,0 +1,17 @@
+.card {
+  margin-top: 1rem;
+}
+
+img {
+  width: 100px;
+  border-radius: 5px;
+}
+
+.name {
+  font-weight: bold;
+  color: rgb(177, 193, 194);
+}
+
+.company {
+  color: rgb(191, 208, 209);
+}
